@@ -1,0 +1,8 @@
+
+Supermarket Cashier System
+
+
+License:
+THIS PROJECT BELONGS TO HAMOON FATHI
+
+SPECIAL THANKS TO PROF. KHANZAD!
